@@ -12,8 +12,8 @@ The Python Data Analysis project aims to analyze and derive valuable insights fr
 ## Dataset
 ## Installation
 ## Usage
-## Contributing
-## License
+## Contact
+
 
 # Project Description
 In this project, we aim to gain insights from a dataset that includes information about customers, their purchases, and related attributes. The main goal is to perform data analysis and visualization using Python, with a focus on exploring patterns and trends in customer behavior.The project utilizes the following Python libraries and tools:
