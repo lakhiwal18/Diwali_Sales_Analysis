@@ -1,6 +1,12 @@
 # Diwali_Sales_Analysis
 The Python Data Analysis project aims to analyze and derive valuable insights from a dataset containing customer information and purchase records. By leveraging the power of data analysis and visualization techniques, this project provides a comprehensive understanding of customer behavior, preferences, and trends.
 
+# Project Learnings:
+* Performed data cleaning and manipulation
+* Performed Exploratory Data Analysis using numpy,pandas,matplotlib,seaborn libraries
+* Improved customer experience by identifying potential customers across different states,occupations,age groups and gender.
+* Improved sales by identifying most selling product categories and products which can help to plan inventoryand hence meet the demands
+
 # Table of Contents
 ## Project Description
 ## Dataset
