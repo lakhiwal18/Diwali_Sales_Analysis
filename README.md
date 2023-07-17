@@ -5,7 +5,7 @@ The Python Data Analysis project aims to analyze and derive valuable insights fr
 * Performed data cleaning and manipulation
 * Performed Exploratory Data Analysis using numpy,pandas,matplotlib,seaborn libraries
 * Improved customer experience by identifying potential customers across different states,occupations,age groups and gender.
-* Improved sales by identifying most selling product categories and products which can help to plan inventoryand hence meet the demands
+* Improved sales by identifying most selling product categories and products which can help to plan inventory and hence meet the demands
 
 # Table of Contents
 ## Project Description
