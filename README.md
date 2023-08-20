@@ -1,4 +1,6 @@
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDIyZHg0bXJleHVvZGx4d2g1cXFrbWVicmdzNjBodHhzMmZxemZlbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iJnL6vGCy059c37VQ3/giphy.gif" width="900" height="400"/>
+</div>
 
 
 # Diwali_Sales_Analysis
